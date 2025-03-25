@@ -1,0 +1,71 @@
+# Data files
+/ecommerce_recommendation_project/data/raw/
+/ecommerce_recommendation_project/data/interim/
+/ecommerce_recommendation_project/data/processed/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Logs
+logs/
+*.log
+
+# Virtual Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Kaggle API credentials
+kaggle.json
+
+# Model files (can be large)
+*.pkl
+*.h5
+*.joblib
+*.model
+
+# Cache files
+*.parquet
+*.cache/

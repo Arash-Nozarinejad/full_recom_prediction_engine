@@ -1,0 +1,52 @@
+# Core data processing
+pandas==2.1.0
+numpy==1.24.3
+scipy==1.11.3
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+plotly==5.18.0
+
+# Machine learning
+scikit-learn==1.3.0
+xgboost==2.0.0
+lightgbm==4.1.0
+catboost==1.2.2
+
+# NLP tools for text analysis
+nltk==3.8.1
+spacy==3.7.2
+gensim==4.3.1
+
+# Recommendation systems
+surprise==0.1
+implicit==0.7.0
+
+# File formats and I/O
+pyarrow==14.0.1
+fastparquet==2023.8.0
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Environment and configuration
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Utilities
+tqdm==4.66.1
+joblib==1.3.2
+ipywidgets==8.1.1
+
+# Jupyter extensions
+jupyter==1.0.0
+notebook==7.0.6
+
+# API access
+kaggle==1.5.16
+requests==2.31.0
+
+# Database connectors
+# sqlalchemy==2.0.23
+# pymysql==1.1.0
+# psycopg2-binary==2.9.9
